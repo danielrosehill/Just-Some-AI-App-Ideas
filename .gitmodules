@@ -1,0 +1,21 @@
+[submodule "source-repos/Voice-LLM-App-Notes"]
+	path = source-repos/Voice-LLM-App-Notes
+	url = https://github.com/danielrosehill/Voice-LLM-App-Notes
+[submodule "source-repos/Deepgram-STT-Linux-App"]
+	path = source-repos/Deepgram-STT-Linux-App
+	url = https://github.com/danielrosehill/Deepgram-STT-Linux-App
+[submodule "source-repos/Context-Data-Generation-Bot"]
+	path = source-repos/Context-Data-Generation-Bot
+	url = https://github.com/danielrosehill/Context-Data-Generation-Bot
+[submodule "source-repos/Context-Waterfall-Architecture-Notes"]
+	path = source-repos/Context-Waterfall-Architecture-Notes
+	url = https://github.com/danielrosehill/Context-Waterfall-Architecture-Notes
+[submodule "source-repos/Personal-Context-Vector-Pipeline"]
+	path = source-repos/Personal-Context-Vector-Pipeline
+	url = https://github.com/danielrosehill/Personal-Context-Vector-Pipeline
+[submodule "source-repos/Personal-Context-Repo-Idea"]
+	path = source-repos/Personal-Context-Repo-Idea
+	url = https://github.com/danielrosehill/Personal-Context-Repo-Idea
+[submodule "source-repos/My-LLM-KM-Idea"]
+	path = source-repos/My-LLM-KM-Idea
+	url = https://github.com/danielrosehill/My-LLM-KM-Idea
