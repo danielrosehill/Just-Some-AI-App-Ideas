@@ -12,9 +12,9 @@ The purpose of this repository is to firstly gather in some of the ideas that I'
 
 By doing so, going forward, I hope that this can provide a sort of index for a different ideas at their first entry stage. They might later branch out into their own repositories if they are more developed and contain code. Or this might be their ultimate destination. 
 
-I love chatting with AI vendors, those also passionate about exploring the many interesting use cases that are quickly becoming not only feasible, but highly practical. So if you're working on something similar or would like to collaborate, don't be shy about reaching out!
+The folder will be a basic hierarchy with similar ideas organized into folders.  I'll use Github submodules to gather the source material for ideas being summarized here where those are discrete repositories. But going forward, the process will be reversed. Ideas will begin here and later branch out if applicable.  
 
-## Use Case Statement
+I love chatting with AI vendors, those also passionate about exploring the many interesting use cases that are quickly becoming not only feasible, but highly practical. So if you're working on something similar or would like to collaborate, don't be shy about reaching out!
 
 ## Author
 
