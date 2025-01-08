@@ -1,5 +1,13 @@
 # Just A Few AI Ideas!
 
+## Layout
+
+The `by topic` folder is, as the name suggests, a folder structure grouping similar ideas (or components of them).
+
+`Notes`contains some more high-level material and more general thoughts about how the developments in different components of evolving AI architectures can fit together.
+
+`Source-repos` is mostly for organizational use and preserves the first copies of the raw ideas that were sometimes used to generate the hopefully more organized documents here (for notes on that, see below).
+
 ## Purpose Statement
 
 During 2024, I made the decision that instead of jotting down the occasional idea as a Google Doc, I would begin trying to open source as much of my thinking and first entry notes as possible - essentially creating something like a public notepad or a digital garden comprised of Github repositories. 
