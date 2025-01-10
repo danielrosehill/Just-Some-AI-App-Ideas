@@ -2,7 +2,9 @@
 
 ## Layout
 
-The `by topic` folder is, as the name suggests, a folder structure grouping similar ideas (or components of them).
+`llm-apps` It is the first entry Notepad for ideas for apps that leverage large language models.
+
+The `by topic` folder is, as the name suggests, a folder structure grouping similar ideas (or components of them). Usually this describes the kind of system components that I think would be more useful in the context of supporting other more fully outlined ideas.
 
 `Notes`contains some more high-level material and more general thoughts about how the developments in different components of evolving AI architectures can fit together.
 
